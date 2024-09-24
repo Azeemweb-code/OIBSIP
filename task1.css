@@ -1,0 +1,125 @@
+.minhight{
+    min-height: 100vh;
+}
+.auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+.container{
+    max-width: 80vw;
+}
+.flex{
+    display: flex;
+}
+.center-items{
+    align-items: center;
+}
+.justify-items{
+    justify-content: space-between;
+}
+.justify-center{
+justify-content: center;
+}
+.navbar li{
+    list-style: none;
+    margin: 0 15px;
+    
+
+}
+.navbar{
+    display: flex;
+    height: 65px;
+}
+.navbar li a{
+    text-decoration: none;
+    color: black;
+}
+.navbar li a:hover{
+    font-size: 1.2rem;
+
+}
+.section1{
+    height: 80vh;
+}
+.topleft{
+    width: 50%;
+}
+
+.topright{
+    width: 50%;
+}
+.flex-col{
+    flex-direction: column;
+}
+.text{
+    color: black;
+    font-weight: 900;
+    align-items: center;
+    font-size: 225%;
+}
+.button{
+    padding: 4px 12px;
+    border: solid rgb(235, 158, 3);
+    color:white;
+    background-color: rgb(32, 29, 29);
+    border-radius: 12px;
+    cursor: pointer;
+
+
+     
+}
+.overflow{
+    overflow: auto;
+}
+.img{
+    width: 250px;
+}
+.section1 h1{
+    font-size: 2rem;
+}
+.section2{
+    padding-left: 33px;
+
+    padding-right: 23px;
+}
+.section2 h1{
+    font-size: 3rem;
+}
+.background{
+    background-color: rgb(238, 188, 24);
+}
+.img-width{
+width: 125%;
+}
+.scroll{
+    scroll-behavior: smooth;
+}
+.box{
+    padding: 10px;
+    margin: 10px;
+    min-width: 25vw;
+    border: 2px solid black;
+    
+}
+.box li{
+    margin: 12px;
+    font-size: 110%;
+    font-weight: 500;
+
+}
+h3{
+    text-align: center;
+}
+.footer{
+
+    text-align: center;
+    background-color: rgb(241, 201, 24);
+}
+.li-btn{
+    list-style: none;
+    align-self: center;
+}
+.para{
+    font-size: 125%;
+    font-weight: 500;
+}
